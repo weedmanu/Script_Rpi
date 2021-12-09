@@ -10,7 +10,7 @@ puis une fois le dossier copié :
 
 **chmod +x /home/pi/Script_Rpi/config.sh /home/pi/Script_Rpi/lamp.sh**
 
-afin de rendre les scripts exécutable
+afin de rendre les scripts exécutable.
 
 ### config.sh
 
@@ -23,3 +23,4 @@ Un script qui sert à mettre le Raspberry pi en français, changer le mot de pas
 Un script qui sert à installer et configurer apache2, php, mariadb et phpmyadmin
 
 **sudo /home/pi/Script_Rpi/./lamp.sh**
+
