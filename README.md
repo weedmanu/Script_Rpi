@@ -20,6 +20,6 @@ Un script qui sert à mettre le Raspberry pi en français, changer le mot de pas
 
 ### lamp.sh
 
-Un script qui sert à installer et configurer apache2, pphp, mariadb et phpmyadmin
+Un script qui sert à installer et configurer apache2, php, mariadb et phpmyadmin
 
 **sudo /home/pi/Script_Rpi/./lamp.sh**
