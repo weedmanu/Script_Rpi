@@ -191,8 +191,10 @@ then    # si on répond oui
     whiptail    --title "redémarrage du système" \
                 --backtitle "Paramétrage du Raspberry pi" \
                 --msgbox "Le système va redémarrer !!!" 12 70
+
     # on redémarre
     reboot
+
 else    # si on répond non
     # on affiche l'info de l'annulation
     whiptail    --title "redémarrage du système" \
